@@ -10,6 +10,6 @@ class StrapScreen extends StatefulWidget {
 class _StrapScreenState extends State<StrapScreen> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Container();
   }
 }
